@@ -1,0 +1,62 @@
+{
+    "people": [
+        {
+            "name": "Liia M. Butler",
+            "email": "liiamb2@illinois.edu",
+            "title": "PhD Student",
+            "areas": [
+                "Computer Science Education",
+                "Collaborative Learning",
+                "Testing and Debugging Education"
+            ]
+        },
+        {
+            "name": "Sourav Das",
+            "email": "souravd2@illinois.edu",
+            "title": "PhD Student",
+            "areas": [
+                "Distributed Computing",
+                "Applied Cryptography",
+                "Security"
+            ]
+        },
+        {
+            "name": "Morgan Muriel Fong",
+            "email": "mmfong2@illinois.edu",
+            "title": "PhD Student",
+            "areas": [
+                "Collaborative Learning",
+                "Sense of Belonging",
+                "Computer Science Education"
+            ]
+        },
+        {
+            "name": "Chi Han",
+            "email": "chihan3@illinois.edu",
+            "title": "PhD Student",
+            "areas": [
+                "Representation Understanding",
+                "Large Language Models",
+                "Natural Language Processing"
+            ]
+        },
+        {
+            "name": "Kathleen Isenegger",
+            "email": "kti3@illinois.edu",
+            "title": "PhD Student",
+            "areas": [
+                "Broadening Participation in Comptuing",
+                "Computer Science Education"
+            ]
+        },
+        {
+            "name": "Qingyun Wang",
+            "email": "qingyun4@illinois.edu",
+            "title": "PhD Student",
+            "areas": [
+                "Natural Language Processing ",
+                "AI for Science"
+            ]
+        }
+    ]
+}

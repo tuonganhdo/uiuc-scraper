@@ -1,0 +1,116 @@
+{
+    "people": [
+        {
+            "name": "Chloi Alverti",
+            "email": "xalverti@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": []
+        },
+        {
+            "name": "Ayoosh Bansal",
+            "email": "ayooshb2@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "System Design",
+                "Real Time Systems",
+                "Safe use of AI"
+            ]
+        },
+        {
+            "name": "Binglin Chen",
+            "email": "chen386@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": []
+        },
+        {
+            "name": "Xiusi Chen",
+            "email": "xiusic@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "LLM Alignment",
+                "Reasoning and Planning",
+                "Neuro-Symbolic AI",
+                "Language Models"
+            ]
+        },
+        {
+            "name": "Nicholas J. Christensen",
+            "email": "njchris2@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": []
+        },
+        {
+            "name": "Maryam Dehghan",
+            "email": "mdehghan@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": []
+        },
+        {
+            "name": "Suvodip Dey",
+            "email": "sdey@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": []
+        },
+        {
+            "name": "Kari George",
+            "email": "klgeorge@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "Graduate Education",
+                "Broadening Participation in Computing",
+                "Higher Education"
+            ]
+        },
+        {
+            "name": "Jun-Gi Jang",
+            "email": "jungi@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "Data Mining"
+            ]
+        },
+        {
+            "name": "Jongyul Kim",
+            "email": "jyk@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "SmartNIC, SmartSSD",
+                "(Distributed) File system",
+                "Operating system"
+            ]
+        },
+        {
+            "name": "James Motes",
+            "email": "jmotes2@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "Multi-robot Systems",
+                "Task and Motion Planning"
+            ]
+        },
+        {
+            "name": "Nico Ritschel",
+            "email": "ritschel@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": []
+        },
+        {
+            "name": "Mehrdad Tahmasbi",
+            "email": "mehrdad@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "Quantum information theory",
+                "Quantum complexity theory"
+            ]
+        },
+        {
+            "name": "Wilfredo Torres Calderon",
+            "email": "trrscld2@illinois.edu",
+            "title": "Postdoctoral Researcher",
+            "areas": [
+                "Image and video understanding",
+                "Computer Vision"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1408 @@
+{
+    "people": [
+        {
+            "name": "Tarek Abdelzaher",
+            "email": "zaher@illinois.edu",
+            "title": "Sohaib and Sara Abbasi Professor and Willett Faculty Scholar",
+            "areas": []
+        },
+        {
+            "name": "Sarita V. Adve",
+            "email": "sadve@illinois.edu",
+            "title": "Richard T. Cheng Professor",
+            "areas": []
+        },
+        {
+            "name": "Vikram Adve",
+            "email": "vadve@illinois.edu",
+            "title": "Donald B. Gillies Professor in Computer Science",
+            "areas": []
+        },
+        {
+            "name": "Saksham Agarwal",
+            "email": "saksham@illinois.edu",
+            "title": "Department Affiliate",
+            "areas": []
+        },
+        {
+            "name": "Gul A. Agha",
+            "email": "agha@illinois.edu",
+            "title": "Research Professor and Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Narendra Ahuja",
+            "email": "n-ahuja@illinois.edu",
+            "title": "Assistant Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Ram Alagappan",
+            "email": "ramn@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Abdussalam Alawini",
+            "email": "alawini@illinois.edu",
+            "title": "Teaching Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Nancy M. Amato",
+            "email": "namato@illinois.edu",
+            "title": "Abel Bliss Professor of Engineering and School Director",
+            "areas": []
+        },
+        {
+            "name": "Eyal Amir",
+            "email": "eyal@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Mark Anastasio",
+            "email": "maa@illinois.edu",
+            "title": "Donald Biggar Willett Professor in Engineering Head, Department of Bioengineering",
+            "areas": []
+        },
+        {
+            "name": "Lawrence Angrave",
+            "email": "angrave@illinois.edu",
+            "title": "Teaching Professor, Gies RC Evans Innovation Fellow, CITL Fellow",
+            "areas": []
+        },
+        {
+            "name": "Tal August",
+            "email": "taugust@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Brian P. Bailey",
+            "email": "bpbailey@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Michael Bailey",
+            "email": "mdbailey@illinois.edu",
+            "title": "Associate Professor, Coordinated Science Laboratory",
+            "areas": []
+        },
+        {
+            "name": "Arindam Banerjee",
+            "email": "arindamb@illinois.edu",
+            "title": "Founder Professor in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Adam Bates",
+            "email": "batesa@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Mattox Beckman",
+            "email": "mattox@illinois.edu",
+            "title": "Teaching Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Suma Bhat",
+            "email": "spbhat2@illinois.edu",
+            "title": "Assistant Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Catherine Lesley Blake",
+            "email": "clblake@illinois.edu",
+            "title": "Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Nikita Borisov",
+            "email": "nikita@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Timothy Bretl",
+            "email": "tbretl@illinois.edu",
+            "title": "Professor, Aerospace Engineering",
+            "areas": []
+        },
+        {
+            "name": "Robert J. Brunner",
+            "email": "bigdog@illinois.edu",
+            "title": "Professor, Astronomy",
+            "areas": []
+        },
+        {
+            "name": "Marco Caccamo",
+            "email": "mcaccamo@illinois.edu",
+            "title": "Adjunct Professor",
+            "areas": []
+        },
+        {
+            "name": "Matthew Caesar",
+            "email": "caesar@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Roy H. Campbell",
+            "email": "rhc@illinois.edu",
+            "title": "Sohaib and Sara Abbasi Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Franck Cappello",
+            "email": "cappello@illinois.edu",
+            "title": "Adjunct Research Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "George Chacko",
+            "email": "chackoge@illinois.edu",
+            "title": "Research Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Geoffrey Werner Challen",
+            "email": "challen@illinois.edu",
+            "title": "Teaching Professor",
+            "areas": []
+        },
+        {
+            "name": "Timothy Moon-Yew Chan",
+            "email": "tmc@illinois.edu",
+            "title": "Founder Professor in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Karthekeyan Chandrasekaran",
+            "email": "karthe@illinois.edu",
+            "title": "Associate Professor, Industrial and Enterprise Systems Engineering",
+            "areas": []
+        },
+        {
+            "name": "Varun Chandrasekaran",
+            "email": "varunc@illinois.edu",
+            "title": "Assistant Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Eshwar Chandrasekharan",
+            "email": "eshwar@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Kevin Chenchuan Chang",
+            "email": "kcchang@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Chandra Chekuri",
+            "email": "chekuri@illinois.edu",
+            "title": "Paul and Cynthia Saylor Professor",
+            "areas": []
+        },
+        {
+            "name": "Deming Chen",
+            "email": "dchen@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Eric Chitambar",
+            "email": "echitamb@illinois.edu",
+            "title": "Associate Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Girish Chowdhary",
+            "email": "girishc@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Camille Cobb",
+            "email": " ",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Katie Cunningham",
+            "email": "katcun@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Ryan Cunningham",
+            "email": "rcunnin2@illinois.edu",
+            "title": "Lecturer",
+            "areas": []
+        },
+        {
+            "name": "David M. Dalpiaz",
+            "email": "dalpiaz2@illinois.edu",
+            "title": "Teaching Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Gerald F. DeJong, II",
+            "email": "mrebl@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Jana Diesner",
+            "email": "jdiesner@illinois.edu",
+            "title": "Associate Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Daniel Dig",
+            "email": "dig@illinois.edu",
+            "title": "Adjunct Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Minh N. Do",
+            "email": "minhdo@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Kate Donahue",
+            "email": "kpd@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Katie Driggs-Campbell",
+            "email": "krdc@illinois.edu",
+            "title": "Assistant Professor, Electrical & Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Geir Dullerud",
+            "email": "dullerud@illinois.edu",
+            "title": "Professor, Mechanical Science and Engineering",
+            "areas": []
+        },
+        {
+            "name": "Mohammed El-Kebir",
+            "email": "melkebir@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Jeff Erickson",
+            "email": "jeffe@illinois.edu",
+            "title": "Sohaib and Sara Abbasi Professor",
+            "areas": []
+        },
+        {
+            "name": "Carl Evans",
+            "email": "gcevans@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Wade Fagen-Ulmschneider",
+            "email": "waf@illinois.edu",
+            "title": "Teaching Professor",
+            "areas": []
+        },
+        {
+            "name": "Reza Farivar",
+            "email": "farivar2@illinois.edu",
+            "title": "Clinical Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Paul Fischer",
+            "email": "fischerp@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Karle Flanagan",
+            "email": "kflan@illinois.edu",
+            "title": "Teaching Associate Professor, Statistics",
+            "areas": []
+        },
+        {
+            "name": "Margaret M. Fleck",
+            "email": "mfleck@illinois.edu",
+            "title": "Teaching Professor",
+            "areas": []
+        },
+        {
+            "name": "Michael A. Forbes",
+            "email": "miforbes@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "David Forsyth",
+            "email": "daf@illinois.edu",
+            "title": "Fulton Watson Copp Chair in Computer Science",
+            "areas": []
+        },
+        {
+            "name": "Max Fowler",
+            "email": "mfowler5@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "H. George Friedman",
+            "email": "friedman@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Aishwarya Ganesan",
+            "email": "aganesn2@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Jugal Garg",
+            "email": "jugal@illinois.edu",
+            "title": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "areas": []
+        },
+        {
+            "name": "Maria Jesus Garzaran",
+            "email": "garzaran@illinois.edu",
+            "title": "Adjunct Research Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Yael Gertner",
+            "email": "ygertner@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Saugata Ghose",
+            "email": "ghose@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Brighten Godfrey",
+            "email": "pbg@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Mani Golparvar-Fard",
+            "email": "mgolpar@illinois.edu",
+            "title": "Professor, Civil and Environmental Engineering",
+            "areas": []
+        },
+        {
+            "name": "Fernando Granha Jeronimo",
+            "email": "granha@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Bill Gropp",
+            "email": "wgropp@illinois.edu",
+            "title": "Grainger Distinguished Chair",
+            "areas": []
+        },
+        {
+            "name": "Kaiyu Guan",
+            "email": "kaiyug@illinois.edu",
+            "title": "Professor, Natural Resources and Environmental Sciences",
+            "areas": []
+        },
+        {
+            "name": "Liangyan Gui",
+            "email": "lgui@illinois.edu",
+            "title": "Research Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Carl Gunter",
+            "email": "cgunter@illinois.edu",
+            "title": "George and Ann Fisher Distinguished Professor in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Elsa Gunter",
+            "email": "egunter@illinois.edu",
+            "title": "Research Professor and Senior Lecturer",
+            "areas": []
+        },
+        {
+            "name": "Yue Guo",
+            "email": "yueg@illinois.edu",
+            "title": "Assistant Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Indranil Gupta",
+            "email": "indy@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Saurabh Gupta",
+            "email": "saurabhg@illinois.edu",
+            "title": "Assistant Professor, Electrical & Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Dilek Hakkani-Tur",
+            "email": "dilek@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Jiawei Han",
+            "email": "hanj@illinois.edu",
+            "title": "Michael Aiken Chair",
+            "areas": []
+        },
+        {
+            "name": "Mehdi T. Harandi",
+            "email": "harandi@illinois.edu",
+            "title": "Associate Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Sariel Har-Peled",
+            "email": "sariel@illinois.edu",
+            "title": "Donald Biggar Willett Professor in Engineering",
+            "areas": []
+        },
+        {
+            "name": "John C. Hart",
+            "email": "jch@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Mark Hasegawa-Johnson",
+            "email": "jhasegaw@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Kris K. Hauser",
+            "email": "kkhauser@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Jingrui He",
+            "email": "jingrui@illinois.edu",
+            "title": "Professor, School of Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "David Heath",
+            "email": "daheath@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Michael T. Heath",
+            "email": "heath@illinois.edu",
+            "title": "Professor and Fulton Watson Copp Chair Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Cinda Heeren",
+            "email": "c-heeren@illinois.edu",
+            "title": "Adjunct Teaching Professor",
+            "areas": []
+        },
+        {
+            "name": "Geoffrey Lindsay Herman",
+            "email": "glherman@illinois.edu",
+            "title": "Severns Teaching Professor",
+            "areas": []
+        },
+        {
+            "name": "Julia Hockenmaier",
+            "email": "juliahmr@illinois.edu",
+            "title": "Professor and Willett Faculty Scholar",
+            "areas": []
+        },
+        {
+            "name": "Derek W. Hoiem",
+            "email": "dhoiem@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Naira Hovakimyan",
+            "email": "nhovakim@illinois.edu",
+            "title": "Professor, Mechanical Science and Engineering",
+            "areas": []
+        },
+        {
+            "name": "Yih-Chun Hu",
+            "email": "yihchun@illinois.edu",
+            "title": "Associate Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Jian Huang",
+            "email": "jianh@illinois.edu",
+            "title": "Assistant Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Yun Huang",
+            "email": "yunhuang@illinois.edu",
+            "title": "Associate Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Ravishankar K. Iyer",
+            "email": "rkiyer@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Reyhaneh Jabbarvand",
+            "email": "reyhaneh@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Sheldon H. Jacobson",
+            "email": "shj@illinois.edu",
+            "title": "Founder Professor in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Heng Ji",
+            "email": "hengji@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Nan Jiang",
+            "email": "nanjiang@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Laxmikant V. Kale",
+            "email": "kale@illinois.edu",
+            "title": "Research Professor & Paul and Cynthia Saylor Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Samuel N. Kamin",
+            "email": "kamin@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Daniel Kang",
+            "email": "ddkang@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Karrie Karahalios",
+            "email": "kkarahal@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Daniel S. Katz",
+            "email": "dskatz@illinois.edu",
+            "title": "Research Associate Professor, National Center for Supercomputing Applications",
+            "areas": []
+        },
+        {
+            "name": "Dakshita Khurana",
+            "email": "dakshita@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Minje Kim",
+            "email": "minje@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Nam Sung Kim",
+            "email": "nskim@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Volodymyr Kindratenko",
+            "email": "kindrtnk@illinois.edu",
+            "title": "Research Associate Professor, National Center for Supercomputing Applications",
+            "areas": []
+        },
+        {
+            "name": "Alex Kirlik",
+            "email": "kirlik@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Kohei Kishida",
+            "email": "kkishida@illinois.edu",
+            "title": "Associate Professor, Philosophy",
+            "areas": []
+        },
+        {
+            "name": "Andreas Paul Eberhard Kloeckner",
+            "email": "andreask@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Alexandra Kolla",
+            "email": "akolla@illinois.edu",
+            "title": "Adjunct Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Sanmi Koyejo",
+            "email": "sanmi@illinois.edu",
+            "title": "Adjunct Professor",
+            "areas": []
+        },
+        {
+            "name": "Bill Kramer",
+            "email": "wtkramer@illinois.edu",
+            "title": "Research Professor",
+            "areas": []
+        },
+        {
+            "name": "Robin Hillary Kravets",
+            "email": "rhk@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "David J. Kuck",
+            "email": "kuck@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Rakesh Kumar",
+            "email": "rakeshk@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Ranjitha Kumar",
+            "email": "ranjitha@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Fan Lai",
+            "email": "fanlai@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "H. Chad Lane",
+            "email": "hclane@illinois.edu",
+            "title": "Professor, Educational Psychology ",
+            "areas": []
+        },
+        {
+            "name": "Steven M. LaValle",
+            "email": "lavalle@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Duncan H. Lawrie",
+            "email": "lawrie@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Svetlana Lazebnik",
+            "email": "slazebni@illinois.edu",
+            "title": "Professor and Willett Faculty Scholar",
+            "areas": []
+        },
+        {
+            "name": "Kirill Levchenko",
+            "email": "klevchen@illinois.edu",
+            "title": "Associate Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Colleen M. Lewis",
+            "email": "colleenl@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Bo Li",
+            "email": "lbo@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Ge Liu",
+            "email": "geliu@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Hongye Liu",
+            "email": "hl314@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Ismini Lourentzou",
+            "email": "lourent2@illinois.edu",
+            "title": "Assistant Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Zhiyong Lu",
+            "email": "luzh@illinois.edu",
+            "title": "Professor, National Institutes of Health",
+            "areas": []
+        },
+        {
+            "name": "Bertram Ludaescher",
+            "email": "ludaesch@illinois.edu",
+            "title": "Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Steven Lumetta",
+            "email": "lumetta@illinois.edu",
+            "title": "Associate Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Darko Marinov",
+            "email": "marinov@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Ruta Mehta",
+            "email": "rutameht@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Charith Mendis",
+            "email": "charithm@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Jose Meseguer",
+            "email": "meseguer@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "M. Dennis Mickunas",
+            "email": "mickunas@illinois.edu",
+            "title": "Associate Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Olgica Milenkovic",
+            "email": "milenkov@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Andrew Miller",
+            "email": "soc1024@illinois.edu",
+            "title": "Associate Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Sasa Misailovic",
+            "email": "misailo@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Sayan Mitra",
+            "email": "mitras@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Radhika Mittal",
+            "email": "radhikam@illinois.edu",
+            "title": "Assistant Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Sibin Mohan",
+            "email": "sibin@illinois.edu",
+            "title": "Adjunct Research Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Marco Morales Aguirre",
+            "email": "moralesa@illinois.edu",
+            "title": "Teaching Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Billy Moses",
+            "email": "wsmoses@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Chrystalla Mouza",
+            "email": "cmouza@illinois.edu",
+            "title": "Professor, Education",
+            "areas": []
+        },
+        {
+            "name": "Rakesh Nagi",
+            "email": "nagi@illinois.edu",
+            "title": "Professor, Industrial and Enterprise Systems Engineering",
+            "areas": []
+        },
+        {
+            "name": "Klara Nahrstedt",
+            "email": "klara@illinois.edu",
+            "title": "Swanlund Endowed Chair and Grainger Distinguished Chair in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Yee Man (Margaret) Ng",
+            "email": "ymn@illinois.edu",
+            "title": "Associate Professor, Journalism and Institute of Communications Research",
+            "areas": []
+        },
+        {
+            "name": "David M. Nicol",
+            "email": "dmnicol@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Michael Nowak",
+            "email": "mnowak1@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Luke Olson",
+            "email": "lukeo@illinois.edu",
+            "title": "Professor and Willett Faculty Scholar",
+            "areas": []
+        },
+        {
+            "name": "David Padua",
+            "email": "padua@illinois.edu",
+            "title": "Donald Biggar Willett Professor Emeritus in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Aditya G. Parameswaran",
+            "email": "adityagp@illinois.edu",
+            "title": "Adjunct Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Yongjoo Park",
+            "email": "yongjoo@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Madhusudan Parthasarathy",
+            "email": "madhu@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Sanjay Patel",
+            "email": "sjp@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Hao Peng",
+            "email": "haopeng@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Leonard B. Pitt",
+            "email": "pitt@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Manoj M. Prabhakaran",
+            "email": "mmp@illinois.edu",
+            "title": "Adjunct Professor",
+            "areas": []
+        },
+        {
+            "name": "Maxim Raginsky",
+            "email": "maxim@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Lawrence Rauchwerger",
+            "email": "rwerger@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Bhaskar Ray Chaudhury",
+            "email": "braycha@illinois.edu",
+            "title": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "areas": []
+        },
+        {
+            "name": "Jim Rehg",
+            "email": "jrehg@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "John F. Reid",
+            "email": "j-reid1@illinois.edu",
+            "title": "Research Professor",
+            "areas": []
+        },
+        {
+            "name": "Edward M. Reingold",
+            "email": "reingold@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Ling Ren",
+            "email": "renling@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Talia Ringer",
+            "email": "tringer@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Gene E. Robinson",
+            "email": "generobi@illinois.edu",
+            "title": "Director, Institute for Genomic Biology",
+            "areas": []
+        },
+        {
+            "name": "Arch D. Robison",
+            "email": "adr0@illinois.edu",
+            "title": "Adjunct Research Professor",
+            "areas": []
+        },
+        {
+            "name": "Pablo D. Robles Granda",
+            "email": "pdr@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Grigore Rosu",
+            "email": "grosu@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Dan Roth",
+            "email": "danr@illinois.edu",
+            "title": "Adjunct Professor",
+            "areas": []
+        },
+        {
+            "name": "Romit Roy Choudhury",
+            "email": "croy@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Rob A. Rutenbar",
+            "email": "rutenbar@illinois.edu",
+            "title": "Adjunct Professor",
+            "areas": []
+        },
+        {
+            "name": "Koustuv Saha",
+            "email": "ksaha2@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Jule Schatz",
+            "email": "drschatz@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Alexander Schwing",
+            "email": "aschwing@illinois.edu",
+            "title": "AssociateProfessor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "JooYoung Seo",
+            "email": "jseo1005@illinois.edu",
+            "title": "Assistant Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Lui Sha",
+            "email": "lrs@illinois.edu",
+            "title": "Donald B. Gillies Chair in Computer Science",
+            "areas": []
+        },
+        {
+            "name": "Eric Shaffer",
+            "email": "shaffer1@illinois.edu",
+            "title": "Teaching Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Craig Shultz",
+            "email": "shultz88@illinois.edu",
+            "title": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "areas": []
+        },
+        {
+            "name": "Mariana Silva",
+            "email": "mfsilva@illinois.edu",
+            "title": "Teaching Associate Professor and Education Innovation Fellow",
+            "areas": []
+        },
+        {
+            "name": "Gagandeep Singh",
+            "email": "ggnds@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Makrand Sinha",
+            "email": "msinha@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Saurabh Sinha",
+            "email": "sinhas@illinois.edu",
+            "title": "Adjunct Professor",
+            "areas": []
+        },
+        {
+            "name": "Robert D. Skeel",
+            "email": "skeel@illinois.edu",
+            "title": "Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Paris Smaragdis",
+            "email": "paris@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Marc Snir",
+            "email": "snir@illinois.edu",
+            "title": "Research Professor & Michael Faiman Professor Emeritus",
+            "areas": []
+        },
+        {
+            "name": "Brad R. Solomon",
+            "email": "bradsol@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Edgar Solomonik",
+            "email": "solomon2@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Elahe Soltanaghai",
+            "email": "elahe@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Rayadurgam Srikant",
+            "email": "rsrikant@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Sarah Gimbert Sterman",
+            "email": "ssterman@illinois.edu",
+            "title": "Research Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Sharifa Sultana",
+            "email": "sharifas@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Jimeng Sun",
+            "email": "jimeng@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Hari Sundaram",
+            "email": "hs1@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Ruby Tahboub",
+            "email": "rubyt@illinois.edu",
+            "title": "Teaching Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Michael Benjamin Tissenbaum",
+            "email": "miketiss@illinois.edu",
+            "title": "Associate Professor, Curriculum and Instruction",
+            "areas": []
+        },
+        {
+            "name": "Hanghang Tong",
+            "email": "htong@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Josep Torrellas",
+            "email": "torrella@illinois.edu",
+            "title": "Saburo Muroga Professor",
+            "areas": []
+        },
+        {
+            "name": "Gokhan Tur",
+            "email": "gokhan@illinois.edu",
+            "title": "Research Professor",
+            "areas": []
+        },
+        {
+            "name": "Michael Twidale",
+            "email": "twidale@illinois.edu",
+            "title": "Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Luther Tychonievich",
+            "email": "luthert@illinois.edu",
+            "title": "Teaching Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Lav Varshney",
+            "email": "varshney@illinois.edu",
+            "title": "Associate Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Deepak Vasisht",
+            "email": "deepakv@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Mahesh Viswanathan",
+            "email": "vmahesh@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Yurii Vlasov",
+            "email": "yvlasov@illinois.edu",
+            "title": "Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Dong Wang",
+            "email": "dwang24@illinois.edu",
+            "title": "Associate Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Gang Wang",
+            "email": "gangw@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Haohan Wang",
+            "email": "haohanw@illinois.edu",
+            "title": "Assistant Professor, iSchool",
+            "areas": []
+        },
+        {
+            "name": "Shaowen Wang",
+            "email": "shaowen@illinois.edu",
+            "title": "Professor, Geography",
+            "areas": []
+        },
+        {
+            "name": "Shenlong Wang",
+            "email": "shenlong@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Yang Wang",
+            "email": "yvw@illinois.edu",
+            "title": "Professor, Information Sciences",
+            "areas": []
+        },
+        {
+            "name": "Yuxiong Wang",
+            "email": "yxw@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Tandy Warnow",
+            "email": "warnow@illinois.edu",
+            "title": "Grainger Distinguished Chair in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Tiffani L. Williams",
+            "email": "tiffani@illinois.edu",
+            "title": "Teaching Professor",
+            "areas": []
+        },
+        {
+            "name": "Marianne S. Winslett",
+            "email": "winslett@illinois.edu",
+            "title": "Professor Emerita",
+            "areas": []
+        },
+        {
+            "name": "Michael Joseph Woodley",
+            "email": "mwoodley@illinois.edu",
+            "title": "Clinical Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Abigail Wooldridge",
+            "email": "arwool@illinois.edu",
+            "title": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "areas": []
+        },
+        {
+            "name": "Tianyin Xu",
+            "email": "tyxu@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Yunzong Xu",
+            "email": "xyz@illinois.edu",
+            "title": "Assistant Professor, Industrial and Enterprise Systems Engineering",
+            "areas": []
+        },
+        {
+            "name": "Francis Yan",
+            "email": "fyy@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Jiaxuan You",
+            "email": "jiaxuan@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Wenzhen Yuan",
+            "email": "yuanwz@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "ChengXiang Zhai",
+            "email": "czhai@illinois.edu",
+            "title": "Donald Biggar Willett Professor in Engineering",
+            "areas": []
+        },
+        {
+            "name": "Huan Zhang",
+            "email": "huanz@illinois.edu",
+            "title": "Assistant Professor, Electrical and Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Lingming Zhang",
+            "email": "lingming@illinois.edu",
+            "title": "Associate Professor",
+            "areas": []
+        },
+        {
+            "name": "Minjia Zhang",
+            "email": "minjiaz@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Tong Zhang",
+            "email": "tozhang@illinois.edu",
+            "title": "Professor",
+            "areas": []
+        },
+        {
+            "name": "Yupeng Zhang",
+            "email": "zhangyp@illinois.edu",
+            "title": "Assistant Professor, Electrical & Computer Engineering",
+            "areas": []
+        },
+        {
+            "name": "Han Zhao",
+            "email": "hanzhao@illinois.edu",
+            "title": "Assistant Professor",
+            "areas": []
+        },
+        {
+            "name": "Craig Zilles",
+            "email": "zilles@illinois.edu",
+            "title": "Professor and Severns Faculty Scholar",
+            "areas": []
+        }
+    ]
+}
